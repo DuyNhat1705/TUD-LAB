@@ -1,7 +1,0 @@
-format: jb-book
-root: 1-Gauss
-chapters:
-  - file: 2-Gram-Schidt
-  - file: 3-Diagonalizable Matrix
-  - file: 4-Linear Regression
-  - file: 5-Markov Chain

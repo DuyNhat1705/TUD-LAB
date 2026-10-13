@@ -1,0 +1,21 @@
+version: 1
+project:
+  title: TUD Lab
+  authors:
+    - name: DuyNhat1705
+  github: https://github.com/DuyNhat1705/TUD-LAB
+  math:
+    '\R': '\mathbb{R}'
+  toc:
+    - file: index.md
+    - file: 1-Gauss.ipynb
+    - file: 2-Gram-Schidt.ipynb
+    - file: 3-Diagonalizable Matrix.ipynb
+    - file: 4-Linear Regression.ipynb
+    - file: 5-Markov Chain.ipynb
+site:
+  template: book-theme
+  title: TUD Lab
+  options:
+    logo_text: TUD Lab
+    hide_myst_branding: true
