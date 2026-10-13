@@ -1,0 +1,10 @@
+jupyter-book<2
+numpy
+pandas
+scipy
+sympy
+scikit-learn
+matplotlib
+yfinance
+jupyter
+ipykernel
